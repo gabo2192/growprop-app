@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "406228877549",
+    "project_id": "gpx-grower-app",
+    "storage_bucket": "gpx-grower-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406228877549:android:ca0652e5648acb501e4ce4",
+        "android_client_info": {
+          "package_name": "com.growproexperience.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406228877549-p8r3kr0ub4np93j9u65kfjjbc6quv5ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.growproexperience.app",
+            "certificate_hash": "29c818efd46862b132fcc8c954cb1ed2342e574c"
+          }
+        },
+        {
+          "client_id": "406228877549-t3c3ger73okgf3d3igtg69ihbuubg8rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLI3j6pOyP1kWPwJECDsONEKLmTUGPOm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406228877549-t3c3ger73okgf3d3igtg69ihbuubg8rr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406228877549-0e2kvq1e6p6ga7ktvn10a23ldh089sar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.growproexperience.app",
+                "app_store_id": "1544145879"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
